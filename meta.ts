@@ -65,15 +65,6 @@ export const vendors: Record<string, VendorSkillMeta> = {
       'web-design-guidelines': 'web-design-guidelines',
     },
   },
-  'a11y-specialist-skills': {
-    source: 'https://github.com/masuP9/a11y-specialist-skills',
-    skills: {
-      'reviewing-a11y': 'reviewing-a11y',
-      'auditing-wcag': 'auditing-wcag',
-      'planning-wcag-audit': 'planning-wcag-audit',
-      'planning-a11y-improvement': 'planning-a11y-improvement',
-    },
-  },
 }
 
 /**
