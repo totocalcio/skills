@@ -1,5 +1,5 @@
 # Sync Info
 
 - **Source:** `vendor/slidev/skills/slidev`
-- **Git SHA:** `d76850db564ee03afbc4652b36f1bfe3e5602225`
-- **Synced:** 2026-03-16
+- **Git SHA:** `9b93d782d222b0d1491d1117d30aa6151b529bd4`
+- **Synced:** 2026-05-01
