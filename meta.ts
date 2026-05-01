@@ -74,6 +74,19 @@ export const vendors: Record<string, VendorSkillMeta> = {
       'planning-a11y-improvement': 'planning-a11y-improvement',
     },
   },
+  'vue-ecosystem-skills': {
+    source: 'https://github.com/harlan-zw/vue-ecosystem-skills',
+    skills: {
+      'pinia-colada-skilld': 'pinia-colada-skilld',
+      'vee-validate-skilld': 'vee-validate-skilld',
+    },
+  },
+  'open-circle-agent-skills': {
+    source: 'https://github.com/open-circle/agent-skills',
+    skills: {
+      valibot: 'valibot',
+    },
+  },
 }
 
 /**
